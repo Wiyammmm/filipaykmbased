@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "890512655620",
+    "firebase_url": "https://filipay-7460a-default-rtdb.firebaseio.com",
+    "project_id": "filipay-7460a",
+    "storage_bucket": "filipay-7460a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890512655620:android:45f5aeee73f9c6a6bdbc51",
+        "android_client_info": {
+          "package_name": "com.example.filipayusersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890512655620-8hc0n82qfvgmaah5h0fh8qndens3p4l9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.filipayusersapp",
+            "certificate_hash": "60995ccb5447d3bbd4bb97f7708179ff638cbc3e"
+          }
+        },
+        {
+          "client_id": "890512655620-3lhtjaj36jt3p72mc40b7edgd2creenl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiQYQqP5q3gSpyT1TZnP1jzMdwkC2FF1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890512655620-3lhtjaj36jt3p72mc40b7edgd2creenl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890512655620:android:fc336a7e686efc67bdbc51",
+        "android_client_info": {
+          "package_name": "com.example.texttospeech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890512655620-3lhtjaj36jt3p72mc40b7edgd2creenl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiQYQqP5q3gSpyT1TZnP1jzMdwkC2FF1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890512655620-3lhtjaj36jt3p72mc40b7edgd2creenl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890512655620:android:88de65c3cf5538dfbdbc51",
+        "android_client_info": {
+          "package_name": "com.filipay.kmbased"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890512655620-3lhtjaj36jt3p72mc40b7edgd2creenl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiQYQqP5q3gSpyT1TZnP1jzMdwkC2FF1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890512655620-3lhtjaj36jt3p72mc40b7edgd2creenl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
